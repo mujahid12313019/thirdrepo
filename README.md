@@ -4,3 +4,4 @@ this is a practise problem for github
 Author-Mujahid(kuet,cse)
 <br>
 paltu<br>
+class by shradha (apna college)
